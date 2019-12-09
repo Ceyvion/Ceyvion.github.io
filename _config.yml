@@ -1,11 +1,11 @@
 # Site settings
-author: Ceyvion Biggs
-title: 
+author: Ceyvion Andre
+title: From Less Than to Greater Than 
 header-img: img/home-bg.png
 email: ceyvionb@gmail.com
-copyright_name: Ceyvion Biggs
+copyright_name: Ceyvion Andre
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey to make myself better, and in turn, the world!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Ceyvion
